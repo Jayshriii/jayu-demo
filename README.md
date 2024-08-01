@@ -1,4 +1,4 @@
 # jayu-demo
 This is my demo Repository.
 <br>
-Author - Jayu Rode
+Author - Jayu (Rode)
